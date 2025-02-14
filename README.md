@@ -15,9 +15,17 @@ Schedule App is a simple web application built with Ruby on Rails that allows us
 - **Formatted Date Display**: Dates are displayed in `YYYY/MM/DD` format.
 
 ## Screenshots
-![Schedule List](image1.png)
-![Schedule Form](image2.png)
-![Schedule Details](image3.png)
+### Schedule List
+<img src="images/スケジュール一覧.png" width="600">
+
+### Schedule Form
+<img src="images/スケジュール作成画面.png" width="600">
+
+### Schedule Details
+<img src="images/スケジュール編集画面.png" width="600">
+
+### Flash Message after Editing
+<img src="images/編集後フラッシュメッセージ.png" width="600">
 
 ## Technologies Used
 - Ruby on Rails 6.1.3.2
